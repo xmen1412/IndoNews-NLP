@@ -1,7 +1,7 @@
 # IndoNews-NLP
 
 ## Description
-IndoNews NLP is a Information Retrieval web crawling project from Indonesian News Website using Python .This Project/Repository 
+<b>IndoNews NLP</b> is a Information Retrieval web crawling project from Indonesian News Website using Python .This Project/Repository 
 use the Natural Language Processing Aprroach to Extracting,Searching,Modelling Indonesian News Article from Input Keyword that has been determined 
 
 ## Prerequisites
