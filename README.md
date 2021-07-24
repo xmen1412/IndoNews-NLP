@@ -11,7 +11,7 @@ NLP Aprroach:
 * Named Entity Recognition (NER) Indonesian News with IndoBert
 
 ## Dataset
-we crawl our own data from various news sources on the Indonesian news portal website.and also we provide datasets publicly for other needs you can see at <b>/dataset</b> directory
+we crawl our own data from various news sources on the Indonesian news portal website.and also we provide datasets publicly for other needs you can see at [Datasets](https://drive.google.com/drive/folders/1G_8TB5vdjrgSYA4xFQDraYWvqeYE4ySR?usp=sharing)
 
 
 ## Prerequisites
